@@ -1,0 +1,37 @@
+.card {
+    background-color: #ffffff;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .card h2 {
+    margin-top: 0;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+  }
+  
+  .list-container {
+    width: 400px;
+  }
+  
+  .list-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .list-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .list-container li {
+    margin-bottom: 5px;
+  }
+  

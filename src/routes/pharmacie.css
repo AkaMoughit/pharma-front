@@ -1,0 +1,51 @@
+/* Add the following CSS styles to your project's CSS file or style component */
+
+.pharmacie-list-container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+  }
+  
+  .pharmacie-list-title {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .add-pharmacy-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .pharmacie-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .pharmacie-table th,
+  .pharmacie-table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .pharmacie-name-link {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .delete-button {
+    padding: 5px 10px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
